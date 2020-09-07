@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>TP3 - Serviços Nuvem Java - Aislan Almeida</title>
+<title>TP3 - ServiÃ§os Nuvem Java - Aislan Almeida</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 </head>
@@ -18,10 +18,10 @@
 		<div class="card" style="width: 50%">
 		  <img src="./infnet.png" class="card-img-top" alt="logo infnet" style="background-color:#33125d;padding:20px;">
 			  <div class="card-body">
-			    <h5 class="card-title">TP3 Desenvolvimento de Serviços em Nuvem com Java</h5>
+			    <h5 class="card-title">TP3 Desenvolvimento de ServiÃ§os em Nuvem com Java</h5>
 			    <h5 class="card-title">Aluno: Aislan Almeida</h5>
 		    <p class="card-text">Trabalho desenvolvido utilizando SPRING MVC para consumir API's externas</p>
-		    <a href="#" class="btn btn-primary">Meu repositório GIT</a>
+		    <a href="https://github.com/AislanAlmeida/tp3ServicosJava" target="_blank" class="btn btn-primary">Meu repositÃ³rio GIT</a>
 		  </div>
 		</div>
 	</div>
