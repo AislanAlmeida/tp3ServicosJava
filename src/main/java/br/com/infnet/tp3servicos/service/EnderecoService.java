@@ -1,0 +1,18 @@
+package br.com.infnet.tp3servicos.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.com.infnet.tp3servicos.clients.IEnderecoClient;
+import br.com.infnet.tp3servicos.model.negocio.Endereco;
+
+@Service
+public class EnderecoService {
+	
+	@Autowired
+	private IEnderecoClient client;
+	
+	public Endereco obterPorCep(String cep) {
+		return client.obterPorCep(cep);
+	}
+}
