@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>TP3 - ServiÃ§os Nuvem Java - Aislan Almeida</title>
+<title>TP3 - Serviços Nuvem Java - Aislan Almeida</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 </head>
